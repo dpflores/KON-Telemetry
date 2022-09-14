@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "can.h": "c",
+        "raw.h": "c",
+        "functional": "cpp"
+    }
+}
