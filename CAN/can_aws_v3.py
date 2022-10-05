@@ -72,7 +72,7 @@ mqttc.on_message = on_message                               # assign on_message 
 #mqttc.on_log = on_log
 
 #### Change following parameters #### 
-awshost = "a2s0sulx81fxaq-ats.iot.us-east-1.amazonaws.com"      # Endpoint
+awshost =  # Endpoint
 awsport = 8883                                              # Port no.   
 clientId = "axotec1"                                     # Thing_Name
 thingName = "axotec1"                                    # Thing_Name

@@ -17,7 +17,7 @@ from ubi_test import VARIABLE_LABEL_2
 host = 'industrial.api.ubidots.com'
 port = 1883
 DEVICE_LABEL = 'pruebamqtt'
-TOKEN= "BBFF-63z3UEvKXujfADnc061BnqyXrIxNWt"  # Put your TOKEN here
+TOKEN=  # Put your TOKEN here
 password=""
 VARIABLE_LABEL_1 = "temperature"
 VARIABLE_LABEL_2 = "current"

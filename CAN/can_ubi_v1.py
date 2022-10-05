@@ -19,7 +19,7 @@ import math
  
 #########################################################
                 
-TOKEN = "BBFF-63z3UEvKXujfADnc061BnqyXrIxNWt"  # Put your TOKEN here
+TOKEN = # Put your TOKEN here
 DEVICE_LABEL = "prueba"  # Put your device label here 
 VARIABLE_LABEL_1 = "speed"  # Put your first variable label here
 VARIABLE_LABEL_2 = "current"  # Put your second variable label here
@@ -90,7 +90,7 @@ while True:
         #data= (int (dataH,16))<<8| int (dataL,16)
         data = int (dataH,16) + int (dataL,16)
         data2=randint(2,10)
-        send_ubi(data, data)
+        send_ubi(data2, data2)
         #print (dataL)
         #print(dataH )
         print (data2)

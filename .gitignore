@@ -1,0 +1,7 @@
+passWord.txt
+AWS/Ohio/c9067284415a74793a3779b7e4076739774da2cf554634e0bbd77488d0165ce9-private.pem.key
+AWS/Ohio/c9067284415a74793a3779b7e4076739774da2cf554634e0bbd77488d0165ce9-public.pem.key
+AWS/Virginia/c2491d27e03f31fa51935eccdadd1900220517b6c58c4cb818d53cb92abc18a6-certificate.pem.crt
+AWS/Virginia/AmazonRootCA1.pem
+AWS/Virginia/c2491d27e03f31fa51935eccdadd1900220517b6c58c4cb818d53cb92abc18a6-private.pem.key
+AWS/Virginia/c2491d27e03f31fa51935eccdadd1900220517b6c58c4cb818d53cb92abc18a6-public.pem.key
